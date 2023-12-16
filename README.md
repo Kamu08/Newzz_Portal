@@ -2,8 +2,7 @@
 <h1 align="center">
        ✨  NewzZ Portal  ✨
 </h1>
-![Badge](https://img.shields.io/badge/HTML-blue) ![Badge](https://img.shields.io/badge/CSS-orange) ![Badge](https://img.shields.io/badge/-JS%20-blue) 
-![Badge](https://img.shields.io/badge/Version-1.0-green)
+
 ## Description
 
 The News Portal Project is a dynamic web application that serves as a comprehensive news portal, offering real-time updates from various categories. Leveraging APIs, the project connects to reliable news sources to ensure users receive the latest and most relevant information. With a user-friendly interface and a range of categories, this project provides a seamless news browsing experience.

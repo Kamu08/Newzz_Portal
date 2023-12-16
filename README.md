@@ -21,10 +21,10 @@ The News Portal Project is a dynamic web application that serves as a comprehens
 - User-friendly interface for seamless navigation and an enhanced reading experience.
 - Responsive design for optimal viewing on desktops, tablets, and smartphones.
 
-## Live Demo
+## Live Link
 
 **NOTE** :- This site may take some time to load as it utilizes canvas, which is dependent on your network connection. We appreciate your patience and understanding. For an even better experience, consider                   loading the website multiple times.<br>
-            Check out the live demo :-> https://kamalnewzzportal.netlify.app/
+            Check out the live Link :-> https://kamalnewzzportal.netlify.app/
 
 
 ## How to Run
